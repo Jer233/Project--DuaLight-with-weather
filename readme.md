@@ -122,7 +122,7 @@ python tsc/eval_metric.py
 ```
 Now you may find some results in the dir: sumo_logs
 
-For Weather Conditions:
+**For Weather Conditions:**
 Using new_traffic_data.py, create the original dataset as either a sunny or rainy day dataset, then change the dataset name in the sumocfg file, and run it through the model training code above, and you'll see some different results.
 
 
