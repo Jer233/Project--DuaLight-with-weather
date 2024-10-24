@@ -1,7 +1,7 @@
 <configuration>
   <input>
     <net-file value="ingolstadt21.net.xml"/>
-	<route-files value="ingolstadt21.rou.xml"/>
+	<route-files value="ingolstadt21_modified_rainy.rou.xml"/>
 	<additional-files value="e1.add.xml, e2.add.xml"/>
   </input>
   <time>

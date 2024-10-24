@@ -12,7 +12,7 @@ SPDX-License-Identifier: EPL-2.0
 
     <input>
         <net-file value="fenglin_y2z_t.net.xml"/>
-        <route-files value="fenglin_y2z_t.rou.xml"/>
+        <route-files value="fenglin_y2z_t_modified_rainy.rou.xml"/>
         <additional-files value="E1_add.xml, e2detectors.add.xml, E3_add.xml"/>
         
     </input>
